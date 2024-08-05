@@ -15419,7 +15419,7 @@ body.sal-disabled [data-sal|=flip] {
 }
 .main-header .nav-main ul li:last-child {
 
-  margin-right: 10px;
+  /* margin-right: 10px; */
 }
 
 .main-header .nav-main ul li a {
@@ -27138,8 +27138,8 @@ header.header-home-nine {
 }
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   .bg-white-feature {
-    padding-left: 80px;
-    padding-right: 80px;
+    padding-left: 40px;
+    padding-right: 40px;
   }
 }
 @media only screen and (max-width: 1199px) {
